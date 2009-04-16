@@ -1,0 +1,1 @@
+<h2><?=sprintf(__('hello_%s', true), $user['User']['name']);?></h2>

@@ -1,0 +1,40 @@
+# Tasks related translations
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-07-14 13:17-0400\n"
+"PO-Revision-Date: 2009-02-16 13:53-0400\n"
+"Last-Translator: Pablo <pviojo@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "username"
+msgstr "Usuario"
+
+msgid "password"
+msgstr "Password"
+
+msgid "forgot_username_or_password"
+msgstr "Olvidaste user o password?"
+
+msgid "remember_me"
+msgstr "Recordarme"
+
+msgid "login"
+msgstr "Ingresar"
+
+msgid "Login failed. Invalid username or password."
+msgstr "Usuario o password incorrecto"
+
+msgid "You are not authorized to access that location."
+msgstr "No estás autorizado para acceder a esta ubicación"
+
+msgid "hello_%s"
+msgstr "Hola %s!"

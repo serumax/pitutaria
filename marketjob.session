@@ -1,0 +1,19 @@
+<!DOCTYPE webprojectsession>
+<webprojectsession>
+  <session usePreviewPrefix="0" previewPrefix="" >
+    <itemcursorpositions>
+      <item line="41" column="63" url="app/app_model.php" />
+      <item line="43" column="46" url="app/app_controller.php" />
+      <item line="49" column="57" url="app/views/layouts/default.ctp" />
+      <item line="85" column="39" url="app/controllers/users_controller.php" />
+      <item line="0" column="0" url="app/controllers/components/sk_auth.php" />
+    </itemcursorpositions>
+    <treestatus>
+      <openfolder url="app" />
+      <openfolder url="app/views" />
+      <openfolder url="app/views/layouts" />
+      <openfolder url="app/controllers" />
+      <openfolder url="app/controllers/components" />
+    </treestatus>
+  </session>
+</webprojectsession>
